@@ -1,0 +1,5 @@
+The IDE has detected Microsoft Defender with Real-Time Protection enabled. It might severely degrade IDE performance. It is recommended to add the following paths to the Defender folder exclusion list:
+C:\Projects\github.com\learn-kotlin
+C:\Users\Sanjeev\.gradle
+C:\Users\Sanjeev\AppData\Local\JetBrains\IdeaIC2023.3
+Choose "Automatically" to run a script that excludes these paths (note: Windows will ask for administrative privileges). Choose "Manually" to see Defender configuration instructions.
